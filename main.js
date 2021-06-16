@@ -1,3 +1,5 @@
+const picture = document.querySelector('.picture');
+
 document.addEventListener('DOMContentLoaded', async () => {
 	await Swal.fire({
 		title: 'Hallo, Dian!',
@@ -37,6 +39,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 			imageHeight: 300,
 			imageAlt: 'Custom image',
 		});
+		picture.setAttribute('src', './img/crop.jpg');
 	}
 
 	if (promise.isDenied) {

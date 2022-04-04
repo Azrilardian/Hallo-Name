@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 		await Swal.fire('BECANDAAA.');
 		await Swal.fire({
 			title: 'Jan boros boros, rajin rajin kuliahh',
-			text: 'Jan main hp terus juga',
+			text: 'Jan drakoran terus juga',
 		});
 		await Swal.fire('Hemmm');
 		await Swal.fire('Udah ah');

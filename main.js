@@ -2,16 +2,16 @@ const picture = document.querySelector('.picture');
 
 document.addEventListener('DOMContentLoaded', async () => {
 	await Swal.fire({
-		title: 'Iraaaaaaa',
+		title: 'Diannnn',
 		text: 'Klik ok',
 	});
-	await Swal.fire('Ira jelek');
-	await Swal.fire('Suka tbtb serius');
-	await Swal.fire('Suka ga nyapa');
+	await Swal.fire('Diann jeleek');
+	await Swal.fire('Suka gak mandi');
+	await Swal.fire('Suka tbtb seriusss');
 	await Swal.fire('Tapi saya sayang xixixixixixi');
 	await Swal.fire(':0');
 	const promise = await Swal.fire({
-		title: 'Becanda ga ra ?',
+		title: 'Becanda ga yann ?',
 		showDenyButton: true,
 		confirmButtonText: `MAUNYA SERIUSS`,
 		denyButtonText: `BECANDAIN`,
@@ -24,7 +24,8 @@ document.addEventListener('DOMContentLoaded', async () => {
 			confirmButtonText: `xixixi`,
 		});
 		await Swal.fire('Ngorok juga si');
-		await Swal.fire('BECANDA.');
+		await Swal.fire('HAHAHAHA.');
+		await Swal.fire('BECANDAAA.');
 		await Swal.fire({
 			title: 'Jan boros boros, rajin rajin kuliahh',
 			text: 'Jan main hp terus juga',
@@ -32,13 +33,11 @@ document.addEventListener('DOMContentLoaded', async () => {
 		await Swal.fire('Hemmm');
 		await Swal.fire('Udah ah');
 		await Swal.fire('Mo Lanjut kerja');
-		await Swal.fire('Lagi gabut aja ini');
-		await Swal.fire('Kerjaan juga uda slse si');
 		await Swal.fire('Byeeee');
 		await Swal.fire('Ee tapi kenalin dulu');
 		await Swal.fire({
 			title: 'Aamiin paling serius saya',
-			imageUrl: './img/ira.png',
+			imageUrl: './img/dian.jpg',
 			imageWidth: 250,
 			imageHeight: 300,
 			imageAlt: 'Custom image',
